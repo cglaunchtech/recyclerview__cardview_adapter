@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cardview_Recyclerview</string>
+    <string name="first">First</string>
+    <string name="last">Last</string>
+    <string name="age">Age</string>
+    <string name="about_me">About Me</string>
+    <string name="user_name">UserName</string>
+    <string name="home">Home</string>
+</resources>
